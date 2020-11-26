@@ -1,0 +1,139 @@
+.topcontainer{
+background-color: #F3EAC2;
+padding-top: 50px;
+padding-bottom: 5px;
+display: inline-block;
+text-align: center;
+width:100%;
+
+
+
+}
+
+.Webskills{
+
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.Political{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+  color: #66BFBF;
+
+}
+
+.hello{
+  color: inherit;
+}
+hr{
+  width:20%;
+  color:#66BFBF;
+  border-top:dotted 5px;
+  margin: 30px auto;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+}
+.Milanaphoto{
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+.bottom-cloud{
+  position: relative;
+  margin-bottom: 100px;
+  margin-right: 500px;
+}
+
+.top-cloud{
+  position: relative;
+  left:200px;
+  top:50px;
+
+}
+
+a{
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration: none;
+
+
+}
+.copyright{
+  font-size: 0.75rem;
+  padding: 20px 0 20px 0;
+}
+a:hover{
+  color: #9F5F80;
+}
+
+.UnderH1{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  margin-top: 5px;
+  padding-bottom: 5px;
+}
+.middle-container{
+  background-color:#FDF7FC;
+  margin-top: 30px;
+}
+.bottom-container{
+  background-color: #F3EAC2;
+  padding: 50px 0 50px;
+}
+.skill-row{
+  width: 50%;
+  margin:50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.redbutton {
+background: #F63D3D;
+background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+background-image: -o-linear-gradient(top, #F63D3D, #811616);
+background-image: linear-gradient(to bottom, #F63D3D, #811616);
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+height: 14px;
+line-height: 14px;
+color: #FFFFFF;
+font-family: Open Sans;
+width: 185px;
+font-size: 20px;
+font-weight: 900;
+padding: 12px;
+box-shadow: 1px 1px 6px 0px #000000;
+-webkit-box-shadow: 1px 1px 6px 0px #000000;
+-moz-box-shadow: 1px 1px 6px 0px #000000;
+text-shadow: 1px 1px 6px #000000;
+border: solid #762C2C 1px;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+margin-bottom: 20px;
+}
